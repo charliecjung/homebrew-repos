@@ -1,0 +1,195 @@
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/ncompress.rb:  url "https://github.com/vapier/ncompress/archive/v4.2.4.4.tar.gz"
+^^Success
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/ndpi.rb:  url "https://github.com/ntop/nDPI/archive/2.2.tar.gz"
+^^Ran into error
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/netdata.rb:  url "https://github.com/netdata/netdata/releases/download/v1.11.1/netdata-v1.11.1.tar.gz"
+^^Success
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/nlopt.rb:  url "https://github.com/stevengj/nlopt/releases/download/nlopt-2.4.2/nlopt-2.4.2.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/ntopng.rb:      url "https://github.com/ntop/nDPI/archive/2.4.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/ocamlbuild.rb:  url "https://github.com/ocaml/ocamlbuild/archive/0.13.1.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/odpi.rb:  url "https://github.com/oracle/odpi/archive/v3.0.0.tar.gz"
+
+###/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/offlineimap.rb:  url "https://github.com/OfflineIMAP/offlineimap/archive/v7.2.1.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/open-completion.rb:  url "https://github.com/moshen/open-bash-completion/archive/v1.0.3.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/opencoarrays.rb:  url "https://github.com/sourceryinstitute/OpenCoarrays/releases/download/2.3.1/OpenCoarrays-2.3.1.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/openrct2.rb:    url "https://github.com/OpenRCT2/objects/releases/download/v1.0.6/objects.zip",
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/opentracing-cpp.rb:  url "https://github.com/opentracing/opentracing-cpp/archive/v1.5.0.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/openvpn.rb:    url "https://github.com/OpenSC/pkcs11-helper/releases/download/pkcs11-helper-1.22/pkcs11-helper-1.22.tar.bz2"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/osc.rb:  url "https://github.com/openSUSE/osc/archive/0.163.0.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/osquery.rb:  url "https://github.com/facebook/osquery/archive/3.3.0.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/paket.rb:  url "https://github.com/fsprojects/Paket/releases/download/5.196.2/paket.exe"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pcb2gcode.rb:  url "https://github.com/pcb2gcode/pcb2gcode/releases/download/v1.3.2/pcb2gcode-1.3.2.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pdfpc.rb:  url "https://github.com/pdfpc/pdfpc/archive/v4.3.0.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/perl-build.rb:  url "https://github.com/tokuhirom/Perl-Build/archive/1.25.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pgbadger.rb:  url "https://github.com/darold/pgbadger/archive/v10.2.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pgloader.rb:  url "https://github.com/dimitri/pgloader/archive/v3.5.2.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pgweb.rb:  url "https://github.com/sosedoff/pgweb/archive/v0.11.1.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/phoronix-test-suite.rb:  url "https://github.com/phoronix-test-suite/phoronix-test-suite/archive/v8.4.1.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/php-cs-fixer.rb:  url "https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/download/v2.14.0/php-cs-fixer.phar"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/picard-tools.rb:  url "https://github.com/broadinstitute/picard/releases/download/2.18.23/picard.jar"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pioneer.rb:  url "https://github.com/pioneerspacesim/pioneer/archive/20180203.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pius.rb:  url "https://github.com/jaymzh/pius/archive/v2.2.6.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/postgrest.rb:  url "https://github.com/PostgREST/postgrest/archive/v0.5.0.0.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/powerman.rb:  url "https://github.com/chaos/powerman/releases/download/2.3.24/powerman-2.3.24.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pre-commit.rb:  url "https://github.com/pre-commit/pre-commit/archive/v1.14.2.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/precomp.rb:  url "https://github.com/schnaader/precomp-cpp/archive/v0.4.6.tar.gz"
+
+###/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/primesieve.rb:  url "https://github.com/kimwalisch/primesieve/archive/v7.3.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/ptex.rb:  url "https://github.com/wdas/ptex/archive/v2.1.33.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pyenv-virtualenv.rb:  url "https://github.com/pyenv/pyenv-virtualenv/archive/v1.1.3.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/qalculate-gtk.rb:  url "https://github.com/Qalculate/qalculate-gtk/releases/download/v2.8.2/qalculate-gtk-2.8.2.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/qxmpp.rb:  url "https://github.com/qxmpp-project/qxmpp/archive/v0.9.3.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/raine.rb:  url "https://github.com/zelurker/raine/archive/0.64.15.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/rbspy.rb:  url "https://github.com/rbspy/rbspy/archive/v0.3.3.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/redis@4.0.rb:  url "https://github.com/antirez/redis/archive/4.0.12.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/redo.rb:  url "https://github.com/apenwarr/redo/archive/redo-0.21.tar.gz"
+
+## 10.1?
+###/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/redpen.rb:  url "https://github.com/redpen-cc/redpen/releases/download/redpen-1.10.1/redpen-1.10.1.tar.gz"
+
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/redsocks.rb:  url "https://github.com/darkk/redsocks/archive/release-0.4.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/rhino.rb:  url "https://github.com/mozilla/rhino/releases/download/Rhino1_7_9_Release/rhino-1.7.9.zip"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/robot-framework.rb:  url "https://github.com/robotframework/robotframework/archive/v3.0.4.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/rst-lint.rb:  url "https://github.com/twolfson/restructuredtext-lint/archive/1.2.1.tar.gz"
+
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/rtv.rb:  url "https://github.com/michael-lazar/rtv/archive/v1.25.0.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/rust.rb:      url "https://github.com/racer-rust/racer/archive/2.0.14.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/s-search.rb:  url "https://github.com/zquestz/s/archive/v0.5.13.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/s3ql.rb:  url "https://github.com/s3ql/s3ql/releases/download/release-2.33/s3ql-2.33.tar.bz2"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/scalariform.rb:  url "https://github.com/scala-ide/scalariform/releases/download/0.2.6/scalariform.jar"
+
+####/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/sceptre.rb:  url "https://github.com/cloudreach/sceptre/archive/v2.0.0.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/securefs.rb:  url "https://github.com/netheril96/securefs/archive/0.8.2.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/shmux.rb:  url "https://github.com/shmux/shmux/archive/v1.0.2.tar.gz"
+
+# freaking go
+##/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/slackcat.rb:  url "https://github.com/vektorlab/slackcat/archive/v1.4.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/sn0int.rb:  url "https://github.com/kpcyrd/sn0int/archive/v0.9.0.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/snownews.rb:  url "https://github.com/kouya/snownews/archive/v1.5.13.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/spirv-cross.rb:  url "https://github.com/KhronosGroup/SPIRV-Cross/archive/2019-01-31.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/sqlmap.rb:  url "https://github.com/sqlmapproject/sqlmap/archive/1.3.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/sratoolkit.rb:  url "https://github.com/ncbi/sra-tools/archive/2.9.3.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/sratoolkit.rb:    url "https://github.com/ncbi/ngs/archive/2.9.2.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/srt.rb:  url "https://github.com/Haivision/srt/archive/v1.3.1.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/sshconfigfs.rb:    url "https://github.com/terencehonles/fusepy/archive/v2.0.2.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/ssllabs-scan.rb:  url "https://github.com/ssllabs/ssllabs-scan/archive/v1.4.0.tar.gz"
+
+
+## looks scary
+##/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/stella.rb:  url "https://github.com/stella-emu/stella/releases/download/5.1.3/stella-5.1.3-src.tar.xz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/stout.rb:  url "https://github.com/cloudflare/Stout/archive/v1.3.1.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/swagger-codegen.rb:  url "https://github.com/swagger-api/swagger-codegen/archive/v3.0.4.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/teleconsole.rb:  url "https://github.com/gravitational/teleconsole/archive/0.3.1.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/teleport.rb:  url "https://github.com/gravitational/teleport/archive/v3.1.3.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/termtosvg.rb:  url "https://github.com/nbedos/termtosvg/archive/0.7.0.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/terragrunt.rb:  url "https://github.com/gruntwork-io/terragrunt/archive/v0.17.4.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/tgui.rb:  url "https://github.com/texus/TGUI/archive/v0.8.3.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/treefrog.rb:  url "https://github.com/treefrogframework/treefrog-framework/archive/v1.22.0.tar.gz"
+
+#2.0.8
+###/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/tundra.rb:    url "https://github.com/google/googletest/archive/release-1.8.0.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/urweb.rb:  url "https://github.com/urweb/urweb/releases/download/20180616/urweb-20180616.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/vera++.rb:    url "https://github.com/LuaDist/lua/archive/5.2.3.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/vifm.rb:  url "https://github.com/vifm/vifm/releases/download/v0.9.1/vifm-0.9.1.tar.bz2"
+
+##/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/vim.rb:  url "https://github.com/vim/vim/archive/v8.1.0950.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/vmtouch.rb:  url "https://github.com/hoytech/vmtouch/archive/v1.3.0.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/voms.rb:  url "https://github.com/italiangrid/voms-clients/archive/v3.0.7.tar.gz"
+
+###/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/wabt.rb:  url "https://github.com/WebAssembly/wabt/archive/1.0.6.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/wartremover.rb:  url "https://github.com/wartremover/wartremover/archive/v2.3.7.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/watchexec.rb:  url "https://github.com/watchexec/watchexec/archive/1.9.2.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/wdc.rb:  url "https://github.com/designerror/webdav-client-cpp/archive/v1.0.1.tar.gz"
+
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/websocketd.rb:  url "https://github.com/joewalnes/websocketd/archive/v0.3.0.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/wpscan.rb:  url "https://github.com/wpscanteam/wpscan/archive/2.9.4.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/wxmac.rb:  url "https://github.com/wxWidgets/wxWidgets/releases/download/v3.0.4/wxWidgets-3.0.4.tar.bz2"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/wxmaxima.rb:  url "https://github.com/wxMaxima-developers/wxmaxima/archive/Version-19.01.0.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/xonsh.rb:  url "https://github.com/xonsh/xonsh/archive/0.8.7.tar.gz"
+
+###/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/xtensor.rb:  url "https://github.com/QuantStack/xtensor/archive/0.19.3.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/you-get.rb:  url "https://github.com/soimort/you-get/archive/v0.4.1205.tar.gz"
+
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/z.rb:  url "https://github.com/rupa/z/archive/v1.9.tar.gz"
+
+
+
+
+
+
